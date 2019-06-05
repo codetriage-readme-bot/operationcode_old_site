@@ -1,6 +1,7 @@
 # [Operation Code](https://operationcode.org)
 
 [![OpenCollective](https://opencollective.com/operationcode/backers/badge.svg)](#backers) 
+[![Open Source Helpers](https://www.codetriage.com/operationcode/operationcode/badges/users.svg)](https://www.codetriage.com/operationcode/operationcode)
 
 Operation Code is an open source community dedicated to getting military veterans coding, founded by [David Molina](http://twitter.com/davidcmolina), and maintained by over a dozen [software developers](https://github.com/OperationCode/operationcode/graphs/contributors) with the support and involvement of the [startup community](https://github.com/OperationCode/operationcode#community).
 
